@@ -6,7 +6,7 @@ import hashlib
 
 
 DATABASE_URI = "./twidder"      # Mutaz's Machine Path
-#DATABASE_URI = "D:\\WebDevelopment\\WebLab\\lab4\\tddd97\\lab4_final\\twidder" # Talha's Machine Path
+# DATABASE_URI = "D:\\WebDevelopment\\WebLab\\lab4\\tddd97\\lab4_final\\twidder" # Talha's Machine Path
 
 
 # This method is responsible for establishing the database connection with SQLite. 
