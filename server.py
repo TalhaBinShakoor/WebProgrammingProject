@@ -317,7 +317,7 @@ def get_random_password(length):
 
 # This method is responsble for sending the SMS to the user's phone number.
 def send_sms(phoneNo,message):
-    client = clx.xms.Client(service_plan_id='74900228354a470a8fcaef0c42e7b9f6', token='e49b712396684159ab34da77ec4b21da')
+    client = clx.xms.Client(service_plan_id='5f6994c19d3f4e259e9fbfdd1b72a378', token='854a424f285948faa89ba678e8bad891')
     create = clx.xms.api.MtBatchTextSmsCreate()
     create.sender = "Twidder"
     to = {str(phoneNo)}
