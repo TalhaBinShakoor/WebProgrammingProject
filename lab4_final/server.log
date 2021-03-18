@@ -1,0 +1,1145 @@
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:03] "GET / HTTP/1.1" 200 9145 0.005701
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:03] "GET /client.css HTTP/1.1" 200 6596 0.003748
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:03] "GET /client.js HTTP/1.1" 200 16337 0.003566
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:03] "GET /favicon.ico HTTP/1.1" 404 342 0.001778
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:03] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.003842
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-12 17:49:07] "GET / HTTP/1.1" 200 9145 0.004134
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-12 17:49:07] "GET /client.css HTTP/1.1" 200 6596 0.003048
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-12 17:49:07] "GET /client.js HTTP/1.1" 200 16337 0.002764
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-12 17:49:07] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.002791
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-12 17:49:07] "GET /favicon.ico HTTP/1.1" 404 342 0.001484
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:14] "GET / HTTP/1.1" 200 9145 0.008493
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:14] "GET /client.css HTTP/1.1" 200 6596 0.002939
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:14] "GET /client.js HTTP/1.1" 200 16337 0.002715
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:14] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.003406
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:49:14] "GET /favicon.ico HTTP/1.1" 404 342 0.000980
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:50:00] "POST /signup HTTP/1.1" 500 134 0.007008
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:51:22] "GET / HTTP/1.1" 200 9145 0.010795
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:51:22] "GET /client.css HTTP/1.1" 200 6596 0.004627
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:51:22] "GET /client.js HTTP/1.1" 200 16337 0.004979
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:51:22] "GET /favicon.ico HTTP/1.1" 404 342 0.005588
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:51:22] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.004585
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:51:50] "POST /signup HTTP/1.1" 500 134 0.019302
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:54:14] "POST /signup HTTP/1.1" 201 120 0.025441
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:54:39] "POST /signin HTTP/1.1" 500 134 0.023082
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:54:44] "POST /signin HTTP/1.1" 500 134 0.020166
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:56:31] "GET / HTTP/1.1" 200 9145 0.012299
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:56:31] "GET /client.css HTTP/1.1" 200 6596 0.003874
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:56:31] "GET /client.js HTTP/1.1" 200 16337 0.004614
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:56:31] "GET /favicon.ico HTTP/1.1" 404 342 0.004466
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 17:56:31] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.003656
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 17:56:42] "POST /signin HTTP/1.1" 500 134 0.024584
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:27:39] "GET / HTTP/1.1" 200 9145 0.011176
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:27:40] "GET /client.css HTTP/1.1" 200 6596 0.004825
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:27:40] "GET /client.js HTTP/1.1" 200 16337 0.004389
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:27:40] "GET /favicon.ico HTTP/1.1" 404 342 0.003616
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:27:40] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.002809
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:28:12] "POST /signin HTTP/1.1" 500 134 0.022953
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:28:26] "POST /signin HTTP/1.1" 500 134 0.021382
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:30] "GET / HTTP/1.1" 200 9145 0.004426
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:45] "GET / HTTP/1.1" 200 9145 0.004450
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:45] "GET /client.css HTTP/1.1" 200 6596 0.006428
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:45] "GET /client.js HTTP/1.1" 200 16337 0.005443
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:45] "GET /favicon.ico HTTP/1.1" 404 342 0.002332
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:28:45] "GET /Twidder.jpg HTTP/1.1" 200 33111 0.003940
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:28:57] "POST /signin HTTP/1.1" 500 134 0.030889
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:31:08] "GET / HTTP/1.1" 200 9145 0.009470
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:31:34] "POST /signin HTTP/1.1" 500 134 0.017413
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:33:22] "POST /signin HTTP/1.1" 200 146 0.028577
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:33:22] "GET /getuserdatabytoken HTTP/1.1" 200 243 0.015326
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:33:22] "GET /getusermessagebytoken HTTP/1.1" 200 198 0.013037
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:33:32] "GET /signout HTTP/1.1" 200 115 0.024262
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:33:36] "GET /forgetPassword.html HTTP/1.1" 200 304 0.017297
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@abc.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/18c97bb4d8364e80b0de46002d768b3c/batches HTTP/1.1" 401 0
+Request{b'{"from": "Twidder", "to": ["46700624058"], "type": "mt_text", "body": "your new Password 3162cd98b0932d1da0189bbdd58329a017bcd8a5ec405510c5ef06ca18d78cc6"}'} Response(code 401){}
+Failed to communicate with XMS: Authentication failed with service plan "18c97bb4d8364e80b0de46002d768b3c"
+::ffff:127.0.0.1 - - [2021-03-12 18:33:46] "POST /forgetpassword HTTP/1.1" 400 124 0.825630
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@abc.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/18c97bb4d8364e80b0de46002d768b3c/batches HTTP/1.1" 401 0
+Request{b'{"from": "Twidder", "to": ["46700624058"], "type": "mt_text", "body": "your new Password qnwbuawahu"}'} Response(code 401){}
+Failed to communicate with XMS: Authentication failed with service plan "18c97bb4d8364e80b0de46002d768b3c"
+::ffff:127.0.0.1 - - [2021-03-12 18:35:44] "POST /forgetpassword HTTP/1.1" 400 124 0.730110
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:42:53] "GET /forgetPassword.html HTTP/1.1" 200 1178 0.010974
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:42:53] "GET /client.js HTTP/1.1" 304 209 0.004434
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@abc.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 201 330
+Request{b'{"from": "Twidder", "to": ["46700624058"], "type": "mt_text", "body": "your new Password vaqfwpthtz"}'} Response(code 201){{"id":"01F0KRHHWDH9HM1B6X9DH11Q1E","to":["46700624058"],"from":"Twidder","canceled":false,"body":"This is a test message from your Sinch account","type":"mt_text","created_at":"2021-03-12T17:42:58.701Z","modified_at":"2021-03-12T17:42:58.701Z","delivery_report":"none","expire_at":"2021-03-15T17:42:58.701Z","flash_message":false}}
+::ffff:127.0.0.1 - - [2021-03-12 18:42:58] "POST /forgetpassword HTTP/1.1" 200 115 0.552996
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@abc.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 201 329
+Request{b'{"from": "Twidder", "to": ["4676516403"], "type": "mt_text", "body": "your new Password dffwwxzeno"}'} Response(code 201){{"id":"01F0KRQQS5NRE90H9QK99M04RQ","to":["4676516403"],"from":"Twidder","canceled":false,"body":"This is a test message from your Sinch account","type":"mt_text","created_at":"2021-03-12T17:46:21.349Z","modified_at":"2021-03-12T17:46:21.349Z","delivery_report":"none","expire_at":"2021-03-15T17:46:21.349Z","flash_message":false}}
+::ffff:127.0.0.1 - - [2021-03-12 18:46:21] "POST /forgetpassword HTTP/1.1" 200 115 0.555817
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@abc.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 201 312
+Request{b'{"from": "Twidder", "to": ["46769516403"], "type": "mt_text", "body": "your new Password zboaqpkrnx"}'} Response(code 201){{"id":"01F0KRTC6MA6BP13FF895K19CQ","to":["46769516403"],"from":"Twidder","canceled":false,"body":"your new Password zboaqpkrnx","type":"mt_text","created_at":"2021-03-12T17:47:47.796Z","modified_at":"2021-03-12T17:47:47.796Z","delivery_report":"none","expire_at":"2021-03-15T17:47:47.796Z","flash_message":false}}
+::ffff:127.0.0.1 - - [2021-03-12 18:47:47] "POST /forgetpassword HTTP/1.1" 200 115 0.522406
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:48:06] "GET / HTTP/1.1" 200 306 0.008109
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::ffff:127.0.0.1 - - [2021-03-12 18:48:38] "POST /signin HTTP/1.1" 200 146 0.044324
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:48:38] "GET /getuserdatabytoken HTTP/1.1" 200 243 0.030124
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::ffff:127.0.0.1 - - [2021-03-12 18:48:38] "GET /getusermessagebytoken HTTP/1.1" 200 198 0.012514
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:02] "GET / HTTP/1.1" 200 9330 0.265293
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:02] "GET /client.css HTTP/1.1" 200 6951 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:02] "GET /client.js HTTP/1.1" 200 16798 0.015957
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:02] "GET /Twidder.jpg HTTP/1.1" 200 33089 0.007978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:02] "GET /favicon.ico HTTP/1.1" 404 356 0.000998
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:06] "GET /forgetPassword.html HTTP/1.1" 200 1179 0.007977
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:56:14] "POST /signin HTTP/1.1" 401 125 0.027341
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:56:18] "POST /signin HTTP/1.1" 401 125 0.003732
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:56:25] "POST /signin HTTP/1.1" 401 125 0.002958
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:56:46] "POST /signup HTTP/1.1" 201 120 0.023824
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:56:52] "POST /signin HTTP/1.1" 200 146 0.036941
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:52] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.007978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:56:52] "GET /getusermessagebytoken HTTP/1.1" 200 421 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 13:57:34] "POST /postmessage HTTP/1.1" 201 120 0.022413
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:57:34] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.009014
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:57:38] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001999
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 13:59:43] "GET /signout HTTP/1.1" 200 115 0.023461
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:07] "POST /signin HTTP/1.1" 200 146 0.025930
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:00:07] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.008975
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:00:07] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:25] "POST /getusermessagebyemail HTTP/1.1" 200 236 0.001992
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:27] "POST /getusermessagebyemail HTTP/1.1" 200 440 0.001992
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:00:29] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001993
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:44] "POST /changepassword HTTP/1.1" 401 125 0.002030
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:51] "POST /changepassword HTTP/1.1" 401 125 0.002027
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:00:57] "POST /changepassword HTTP/1.1" 401 125 0.000964
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:01:15] "POST /changepassword HTTP/1.1" 401 125 0.001032
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:18] "GET / HTTP/1.1" 304 187 0.002000
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:18] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.001992
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:18] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.000993
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:22] "GET / HTTP/1.1" 304 187 0.001027
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:22] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.001993
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:22] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.002006
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:24] "GET / HTTP/1.1" 304 187 0.002033
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:24] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.001994
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:24] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:28] "GET / HTTP/1.1" 304 187 0.001995
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:28] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:28] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.002989
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:36] "GET / HTTP/1.1" 304 187 0.001031
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:36] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.001995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:01:36] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:02:09] "GET / HTTP/1.1" 304 187 0.001994
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:02:09] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.001986
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:02:09] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.000996
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:02:36] "POST /changepassword HTTP/1.1" 401 125 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:02:54] "POST /changepassword HTTP/1.1" 401 125 0.000996
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:02:57] "POST /changepassword HTTP/1.1" 401 125 0.001993
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:02:57] "POST /changepassword HTTP/1.1" 401 125 0.002029
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:03:05] "POST /changepassword HTTP/1.1" 401 125 0.002031
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:03:16] "GET /signout HTTP/1.1" 200 115 0.020493
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:03:25] "POST /signin HTTP/1.1" 200 146 0.023971
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:03:25] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.009972
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:03:25] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:03:33] "POST /changepassword HTTP/1.1" 401 125 0.002026
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:03:56] "GET /signout HTTP/1.1" 200 115 0.019280
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:04:21] "POST /signin HTTP/1.1" 401 125 0.009939
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:04:24] "POST /signin HTTP/1.1" 401 125 0.004024
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:04:41] "POST /signup HTTP/1.1" 201 120 0.017107
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:04:44] "POST /signin HTTP/1.1" 200 146 0.027471
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:04:44] "GET /getuserdatabytoken HTTP/1.1" 200 254 0.007978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:04:44] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.002027
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:04:54] "POST /changepassword HTTP/1.1" 401 125 0.002028
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:05:06] "POST /changepassword HTTP/1.1" 401 125 0.001995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:05:20] "GET /signout HTTP/1.1" 200 115 0.013962
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:02] "GET /forgetPassword.html HTTP/1.1" 304 186 0.253346
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:07] "GET /forgetPassword.html HTTP/1.1" 304 186 0.002027
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:09] "GET / HTTP/1.1" 304 187 0.000997
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:15:15] "POST /signin HTTP/1.1" 200 146 0.027924
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:15] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.011965
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:15] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:15:25] "POST /changepassword HTTP/1.1" 401 125 0.002031
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:15:31] "GET /signout HTTP/1.1" 200 115 0.013962
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:15:51] "POST /signup HTTP/1.1" 409 121 0.008012
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:15:57] "POST /signup HTTP/1.1" 201 120 0.014000
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:16:05] "POST /signin HTTP/1.1" 200 146 0.021939
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:05] "GET /getuserdatabytoken HTTP/1.1" 200 254 0.007978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:05] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.002027
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:16:14] "POST /changepassword HTTP/1.1" 201 120 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:14] "GET /signout HTTP/1.1" 200 115 0.014957
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:16:24] "POST /signin HTTP/1.1" 200 146 0.023937
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:25] "GET /getuserdatabytoken HTTP/1.1" 200 254 0.011004
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:25] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.001993
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:16:40] "POST /changepassword HTTP/1.1" 201 120 0.012007
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:16:40] "GET /signout HTTP/1.1" 200 115 0.018948
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:50:54] "GET / HTTP/1.1" 200 9330 0.296211
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:50:54] "GET /client.css HTTP/1.1" 200 6951 0.001994
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:50:54] "GET /client.js HTTP/1.1" 200 16798 0.001996
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:50:55] "GET /Twidder.jpg HTTP/1.1" 200 33089 0.001996
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:50:55] "GET /favicon.ico HTTP/1.1" 404 356 0.000996
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:51:00] "POST /signin HTTP/1.1" 200 146 0.041895
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:51:00] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.009973
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:51:00] "GET /getusermessagebytoken HTTP/1.1" 200 440 0.002992
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-17 14:51:12] "POST /changepassword HTTP/1.1" 201 120 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:51:12] "GET /signout HTTP/1.1" 200 115 0.019395
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-17 14:51:15] "GET /forgetPassword.html HTTP/1.1" 200 1179 0.002031
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values dashilarka100@gmail.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 400 149
+Request{b'{"from": "Twidder", "to": ["0764449643"], "type": "mt_text", "body": "your new Password avyonrdufd"}'} Response(code 400){{"code":"syntax_invalid_parameter_format","text":"The format of parameter 'to[0]' is invalid; value '0764449643' is not a valid MSISDN or group ID."}}
+Failed to communicate with XMS: The format of parameter 'to[0]' is invalid; value '0764449643' is not a valid MSISDN or group ID.
+::1 - - [2021-03-17 14:51:18] "POST /forgetpassword HTTP/1.1" 400 124 0.593435
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:27:53] "GET / HTTP/1.1" 200 9575 0.293216
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:27:53] "GET /client.css HTTP/1.1" 304 186 0.002993
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:27:53] "GET /client.js HTTP/1.1" 304 187 0.001995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:27:53] "GET /Twidder.jpg HTTP/1.1" 200 33089 0.011967
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:27:53] "GET /favicon.ico HTTP/1.1" 404 356 0.000997
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:01] "POST /signin HTTP/1.1" 401 125 0.017951
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:07] "POST /signin HTTP/1.1" 401 125 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:08] "POST /signin HTTP/1.1" 401 125 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:12] "POST /signin HTTP/1.1" 401 125 0.000998
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:26] "POST /signup HTTP/1.1" 409 121 0.002242
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:34] "POST /signup HTTP/1.1" 201 120 0.011970
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:28:39] "POST /signin HTTP/1.1" 200 146 0.020974
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:28:39] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.006980
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:28:40] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.000997
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:29:41] "POST /postmessage HTTP/1.1" 201 120 0.012965
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:29:41] "GET /getusermessagebytoken HTTP/1.1" 200 137 0.006982
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:29:45] "POST /postmessage HTTP/1.1" 201 120 0.010973
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:29:45] "GET /getusermessagebytoken HTTP/1.1" 200 159 0.006980
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:29:47] "GET /signout HTTP/1.1" 200 115 0.013579
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:29:56] "POST /signin HTTP/1.1" 200 146 0.017950
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:29:56] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.006979
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:29:56] "GET /getusermessagebytoken HTTP/1.1" 200 159 0.000998
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:30:00] "POST /getusermessagebyemail HTTP/1.1" 200 236 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:30:04] "POST /getusermessagebyemail HTTP/1.1" 200 440 0.001997
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:30:26] "POST /changepassword HTTP/1.1" 201 120 0.000995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:30:26] "GET /signout HTTP/1.1" 200 115 0.010970
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:30:33] "GET /forgetPassword.html HTTP/1.1" 200 1179 0.010009
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values dashilarka101@gmail.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 400 149
+Request{b'{"from": "Twidder", "to": ["0764449643"], "type": "mt_text", "body": "your new Password rivlsoprxm"}'} Response(code 400){{"code":"syntax_invalid_parameter_format","text":"The format of parameter 'to[0]' is invalid; value '0764449643' is not a valid MSISDN or group ID."}}
+Failed to communicate with XMS: The format of parameter 'to[0]' is invalid; value '0764449643' is not a valid MSISDN or group ID.
+::1 - - [2021-03-18 22:30:39] "POST /forgetpassword HTTP/1.1" 400 124 0.620735
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:46:49] "POST /signin HTTP/1.1" 401 125 0.003947
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:46:59] "POST /signup HTTP/1.1" 201 120 0.016260
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:47:06] "POST /signin HTTP/1.1" 200 146 0.011935
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:47:06] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.009011
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:47:06] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.001995
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:47:09] "GET /signout HTTP/1.1" 200 115 0.012964
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:47:44] "POST /signup HTTP/1.1" 201 120 0.012005
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:47:55] "POST /signin HTTP/1.1" 200 146 0.011009
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:47:55] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.007978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:47:55] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.001996
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:48:01] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.001037
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:48:03] "GET /signout HTTP/1.1" 200 115 0.011932
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values dashilarka104@gmail.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 400 150
+Request{b'{"from": "Twidder", "to": ["03047610205"], "type": "mt_text", "body": "your new Password wvrhslxjgg"}'} Response(code 400){{"code":"syntax_invalid_parameter_format","text":"The format of parameter 'to[0]' is invalid; value '03047610205' is not a valid MSISDN or group ID."}}
+Failed to communicate with XMS: The format of parameter 'to[0]' is invalid; value '03047610205' is not a valid MSISDN or group ID.
+::1 - - [2021-03-18 22:48:46] "POST /forgetpassword HTTP/1.1" 400 124 0.577916
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:49:14] "POST /signup HTTP/1.1" 409 121 0.002029
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:49:25] "POST /signin HTTP/1.1" 200 146 0.011966
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:49:25] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.007977
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:49:25] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.000998
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:49:29] "GET /signout HTTP/1.1" 200 115 0.012092
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values dashilarka105@gmail.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 201 330
+Request{b'{"from": "Twidder", "to": ["46764449643"], "type": "mt_text", "body": "your new Password pwmurvodom"}'} Response(code 201){{"id":"01F13N1C09SWFP040X24XB1HT4","to":["46764449643"],"from":"Twidder","canceled":false,"body":"This is a test message from your Sinch account","type":"mt_text","created_at":"2021-03-18T21:49:33.577Z","modified_at":"2021-03-18T21:49:33.577Z","delivery_report":"none","expire_at":"2021-03-21T21:49:33.577Z","flash_message":false}}
+::1 - - [2021-03-18 22:49:34] "POST /forgetpassword HTTP/1.1" 200 115 0.511605
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:50:10] "POST /signin HTTP/1.1" 401 125 0.001958
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:50:20] "POST /signin HTTP/1.1" 401 125 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:51:07] "POST /signup HTTP/1.1" 201 120 0.010970
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:51:17] "POST /signin HTTP/1.1" 200 146 0.013005
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:51:17] "GET /getuserdatabytoken HTTP/1.1" 200 255 0.006978
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:51:17] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:51:19] "GET /signout HTTP/1.1" 200 115 0.011969
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Failed to write closing frame -> closing socket
+Closed WebSocket
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+@server.forgetPassword() :token and email values mutaz@gmail.com
+@server.forgetPassword() :database result 1
+Starting new HTTPS connection (1): api.clxcommunications.com:443
+https://api.clxcommunications.com:443 "POST /xms/v1/74900228354a470a8fcaef0c42e7b9f6/batches HTTP/1.1" 201 312
+Request{b'{"from": "Twidder", "to": ["46769516403"], "type": "mt_text", "body": "your new Password hyuaqfigty"}'} Response(code 201){{"id":"01F13N4TWW5W841D1HW4MH0DP4","to":["46769516403"],"from":"Twidder","canceled":false,"body":"your new Password hyuaqfigty","type":"mt_text","created_at":"2021-03-18T21:51:27.132Z","modified_at":"2021-03-18T21:51:27.132Z","delivery_report":"none","expire_at":"2021-03-21T21:51:27.132Z","flash_message":false}}
+::1 - - [2021-03-18 22:51:27] "POST /forgetpassword HTTP/1.1" 200 115 0.520312
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:51:41] "POST /signin HTTP/1.1" 401 125 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:51:56] "POST /signin HTTP/1.1" 200 146 0.012971
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:51:56] "GET /getuserdatabytoken HTTP/1.1" 200 255 0.006979
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:51:56] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.002023
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:05] "POST /postmessage HTTP/1.1" 201 120 0.011967
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:05] "GET /getusermessagebytoken HTTP/1.1" 200 135 0.008012
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:08] "POST /getusermessagebyemail HTTP/1.1" 200 236 0.001991
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:09] "GET /getusermessagebytoken HTTP/1.1" 200 135 0.001998
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:28] "POST /changepassword HTTP/1.1" 201 120 0.018910
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:28] "GET /signout HTTP/1.1" 200 115 0.017989
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:34] "POST /signin HTTP/1.1" 401 125 0.001995
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:41] "POST /signin HTTP/1.1" 200 146 0.018949
+Initializing WebSocket
+Validating WebSocket request
+Attempting to upgrade connection
+WebSocket request accepted, switching protocols
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:41] "GET /getuserdatabytoken HTTP/1.1" 200 255 0.006982
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:41] "GET /getusermessagebytoken HTTP/1.1" 200 135 0.001994
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-18 22:52:48] "POST /getusermessagebyemail HTTP/1.1" 204 96 0.001992
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-18 22:52:56] "GET /signout HTTP/1.1" 200 115 0.018948
