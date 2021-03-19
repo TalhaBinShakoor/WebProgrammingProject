@@ -1199,3 +1199,21 @@ Initializing WebSocket
 Validating WebSocket request
 Can only upgrade connection if using GET method.
 ::1 - - [2021-03-19 23:29:11] "POST /signup HTTP/1.1" 409 121 0.015584
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 23:40:57] "POST /signup HTTP/1.1" 500 161 0.022937
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:42:36] "GET / HTTP/1.1" 304 188 0.257311
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 23:42:44] "POST /signup HTTP/1.1" 500 161 0.015137
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:44:32] "GET / HTTP/1.1" 304 188 0.257312
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 23:44:39] "POST /signup HTTP/1.1" 409 121 0.001994

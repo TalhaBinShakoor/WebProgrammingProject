@@ -71,8 +71,7 @@ def SignUp():
             else:
                 return "", 500  #Something went wrong on database
         except Exception as e:
-            print("something: ",e)
-            if(str(e.args[0])=='UNIQUE constraint failed: User.email'):
+            if(str(e.args[0])=='UNIQUE constraint failed: User.email') or 'is not unique' in e.args[0]:
                 return "", 409   #Email already exist.
             else:
                 logging.debug("Error4 while signup ",e)
