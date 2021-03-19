@@ -451,7 +451,7 @@ function genericGetXHR(url, jsonValues, successCall, failureCall){
 // 	 }
 // }
 function connectToSocket() {
-  let conn = new WebSocket("ws://twwider3-mutab736-dev.apps.sandbox.x8i5.p1.openshiftapps.com/:8080/socket");
+  let conn = new WebSocket("ws://twwider3-mutab736-dev.apps.sandbox.x8i5.p1.openshiftapps.com:8080/socket");
   conn.onopen = function () {
     let data = { "email": localStorage.getItem("userEmail"), "token": localStorage.getItem("userToken") };
     console.log("open ws "+JSON.stringify(data));
