@@ -156,7 +156,7 @@ def post_message(userToken, email,post_message,):
     if user_status == 'logedIn':
         get_db().execute("INSERT INTO Post(user_email,post_message) values(?,?);", [email,post_message])
         get_db().commit()
-        return True;
+        return True
     else:
         raise Exception("invalid token / logIn First")
 

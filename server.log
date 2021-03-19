@@ -1143,3 +1143,40 @@ Can only upgrade connection if using GET method.
 Initializing WebSocket
 Validating WebSocket request
 ::1 - - [2021-03-18 22:52:56] "GET /signout HTTP/1.1" 200 115 0.018948
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:19:41] "GET / HTTP/1.1" 200 9576 0.334595
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:19:41] "GET /client.css HTTP/1.1" 200 6951 0.009973
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:19:41] "GET /client.js HTTP/1.1" 200 16799 0.027925
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:19:42] "GET /Twidder.jpg HTTP/1.1" 200 33090 0.008976
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:19:42] "GET /favicon.ico HTTP/1.1" 404 356 0.000997
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 10:22:30] "POST /signup HTTP/1.1" 409 121 0.010972
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 10:22:37] "POST /signup HTTP/1.1" 201 120 0.011966
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 10:22:46] "POST /signin HTTP/1.1" 401 125 0.009974
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 10:22:51] "POST /signin HTTP/1.1" 200 146 0.012962
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:22:51] "GET /getuserdatabytoken HTTP/1.1" 200 263 0.011005
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 10:22:51] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.000997
