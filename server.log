@@ -1180,3 +1180,22 @@ Validating WebSocket request
 Initializing WebSocket
 Validating WebSocket request
 ::1 - - [2021-03-19 10:22:51] "GET /getusermessagebytoken HTTP/1.1" 200 117 0.000997
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:28:59] "GET / HTTP/1.1" 200 9576 0.258307
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:28:59] "GET /client.css HTTP/1.1" 200 6951 0.001994
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:28:59] "GET /client.js HTTP/1.1" 200 16845 0.018950
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:28:59] "GET /Twidder.jpg HTTP/1.1" 200 33090 0.001993
+Initializing WebSocket
+Validating WebSocket request
+::1 - - [2021-03-19 23:28:59] "GET /favicon.ico HTTP/1.1" 404 356 0.001016
+Initializing WebSocket
+Validating WebSocket request
+Can only upgrade connection if using GET method.
+::1 - - [2021-03-19 23:29:11] "POST /signup HTTP/1.1" 409 121 0.015584
